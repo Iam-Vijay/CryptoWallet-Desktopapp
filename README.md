@@ -9,7 +9,7 @@ Desktop Example App
 <img src="https://github.com/Iam-Vijay/CryptoWallet-Desktopapp/blob/master/screenshots/screen2.PNG" width="1200"/>
 </br>
 <h3>Screen3</h3>
-<img scr="https://github.com/Iam-Vijay/CryptoWallet-Desktopapp/blob/master/screenshots/screen3.PNG" width="1200"/>
+<img scr="https://github.com/Iam-Vijay/CryptoWallet-Desktopapp/blob/master/screenshots/screen3.PNG" width="1500"/>
 </br>
 <h3>Screen4</h3>
 <img src="https://github.com/Iam-Vijay/CryptoWallet-Desktopapp/blob/master/screenshots/screen4.PNG" width="1200"/>
